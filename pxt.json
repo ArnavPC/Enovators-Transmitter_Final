@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "microbit-pxt-clicks": "github:bsiever/microbit-pxt-clicks#v0.2.2"
     },
     "files": [
         "main.blocks",
